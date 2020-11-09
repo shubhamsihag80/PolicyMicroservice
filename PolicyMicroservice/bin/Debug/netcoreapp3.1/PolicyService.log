@@ -1,0 +1,485 @@
+INFO  10:31:14 Application started. Press Ctrl+C to shut down.
+INFO  10:31:14 Application started. Press Ctrl+C to shut down.
+INFO  10:31:14 Hosting environment: Development
+INFO  10:31:14 Hosting environment: Development
+INFO  10:31:14 Content root path: D:\.NET\MFPE\PolicyMicroservice
+INFO  10:31:14 Content root path: D:\.NET\MFPE\PolicyMicroservice
+INFO  10:32:23 GetChainOfProviders Accesed
+INFO  10:33:13 GetChainOfProviders Accesed
+INFO  08:31:11 Application started. Press Ctrl+C to shut down.
+INFO  08:31:11 Application started. Press Ctrl+C to shut down.
+INFO  08:31:11 Hosting environment: Development
+INFO  08:31:11 Hosting environment: Development
+INFO  08:31:11 Content root path: D:\.NET\MFPE\PolicyMicroservice
+INFO  08:31:11 Content root path: D:\.NET\MFPE\PolicyMicroservice
+INFO  08:31:13 GetChainOfProviders Accesed
+INFO  08:32:32 GetEligibleBenefit is accessed
+INFO  08:37:07 Application started. Press Ctrl+C to shut down.
+INFO  08:37:07 Application started. Press Ctrl+C to shut down.
+INFO  08:37:07 Hosting environment: Development
+INFO  08:37:07 Hosting environment: Development
+INFO  08:37:07 Content root path: D:\.NET\MFPE\PolicyMicroservice
+INFO  08:37:07 Content root path: D:\.NET\MFPE\PolicyMicroservice
+INFO  08:37:28 GetEligibleClaimAmount is accesed
+INFO  08:37:41 GetEligibleClaimAmount is accesed
+INFO  02:30:27 Application started. Press Ctrl+C to shut down.
+INFO  02:30:27 Application started. Press Ctrl+C to shut down.
+INFO  02:30:27 Hosting environment: Development
+INFO  02:30:27 Hosting environment: Development
+INFO  02:30:27 Content root path: C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\PolicyMicroservice
+INFO  02:30:27 Content root path: C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\PolicyMicroservice
+INFO  02:32:02 GetChainOfProviders Accesed
+INFO  02:33:45 GetEligibleBenefit is accessed
+INFO  02:34:57 GetEligibleClaimAmount is accesed
+INFO  02:35:27 Application started. Press Ctrl+C to shut down.
+INFO  02:35:27 Application started. Press Ctrl+C to shut down.
+INFO  02:35:27 Hosting environment: Development
+INFO  02:35:27 Hosting environment: Development
+INFO  02:35:27 Content root path: C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\PolicyMicroservice
+INFO  02:35:27 Content root path: C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\PolicyMicroservice
+INFO  02:41:28 Application started. Press Ctrl+C to shut down.
+INFO  02:41:28 Application started. Press Ctrl+C to shut down.
+INFO  02:41:28 Hosting environment: Development
+INFO  02:41:28 Hosting environment: Development
+INFO  02:41:28 Content root path: C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\PolicyMicroservice
+INFO  02:41:28 Content root path: C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\PolicyMicroservice
+INFO  02:43:56 GetEligibleClaimAmount is accesed
+INFO  02:43:56 GetEligibleBenefit is accessed
+INFO  02:43:56 GetEligibleBenefit is accessed
+INFO  02:44:11 GetEligibleClaimAmount is accesed
+INFO  02:44:11 GetEligibleBenefit is accessed
+INFO  02:44:11 GetEligibleBenefit is accessed
+INFO  02:46:44 GetEligibleClaimAmount is accesed
+INFO  02:46:44 GetEligibleBenefit is accessed
+INFO  02:49:48 GetEligibleClaimAmount is accesed
+INFO  02:49:48 GetEligibleBenefit is accessed
+INFO  02:49:48 GetChainOfProviders Accesed
+INFO  02:51:12 GetEligibleClaimAmount is accesed
+INFO  02:51:12 GetEligibleBenefit is accessed
+INFO  02:51:12 GetChainOfProviders Accesed
+INFO  02:53:28 Application started. Press Ctrl+C to shut down.
+INFO  02:53:28 Application started. Press Ctrl+C to shut down.
+INFO  02:53:28 Hosting environment: Development
+INFO  02:53:28 Hosting environment: Development
+INFO  02:53:28 Content root path: C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\PolicyMicroservice
+INFO  02:53:28 Content root path: C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\PolicyMicroservice
+INFO  02:58:41 Application started. Press Ctrl+C to shut down.
+INFO  02:58:41 Application started. Press Ctrl+C to shut down.
+INFO  02:58:41 Hosting environment: Development
+INFO  02:58:41 Hosting environment: Development
+INFO  02:58:41 Content root path: C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\PolicyMicroservice
+INFO  02:58:41 Content root path: C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\PolicyMicroservice
+INFO  02:58:59 GetEligibleClaimAmount is accesed
+INFO  02:58:59 GetEligibleBenefit is accessed
+INFO  02:58:59 GetChainOfProviders Accesed
+INFO  03:00:06 GetEligibleClaimAmount is accesed
+INFO  03:00:06 GetEligibleBenefit is accessed
+INFO  03:00:06 GetChainOfProviders Accesed
+INFO  03:00:26 GetEligibleClaimAmount is accesed
+INFO  03:00:26 GetEligibleBenefit is accessed
+INFO  03:00:26 GetChainOfProviders Accesed
+INFO  03:00:30 GetEligibleClaimAmount is accesed
+INFO  03:00:30 GetEligibleBenefit is accessed
+INFO  03:00:30 GetChainOfProviders Accesed
+INFO  03:00:39 GetEligibleClaimAmount is accesed
+INFO  03:00:39 GetEligibleBenefit is accessed
+INFO  03:00:39 GetChainOfProviders Accesed
+INFO  03:00:43 GetEligibleClaimAmount is accesed
+INFO  03:00:43 GetEligibleBenefit is accessed
+INFO  03:00:43 GetChainOfProviders Accesed
+INFO  03:00:45 GetEligibleClaimAmount is accesed
+INFO  03:00:45 GetEligibleBenefit is accessed
+INFO  03:00:45 GetChainOfProviders Accesed
+INFO  03:01:52 GetEligibleClaimAmount is accesed
+INFO  03:01:52 GetEligibleBenefit is accessed
+INFO  03:01:52 GetChainOfProviders Accesed
+INFO  03:06:55 Application started. Press Ctrl+C to shut down.
+INFO  03:06:55 Application started. Press Ctrl+C to shut down.
+INFO  03:06:55 Hosting environment: Development
+INFO  03:06:55 Hosting environment: Development
+INFO  03:06:55 Content root path: C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\PolicyMicroservice
+INFO  03:06:55 Content root path: C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\PolicyMicroservice
+INFO  03:07:13 GetEligibleClaimAmount is accesed
+INFO  03:07:13 GetEligibleBenefit is accessed
+INFO  03:07:13 GetChainOfProviders Accesed
+INFO  03:07:55 GetEligibleClaimAmount is accesed
+INFO  03:07:55 GetEligibleBenefit is accessed
+INFO  03:07:55 GetChainOfProviders Accesed
+INFO  03:09:32 GetEligibleBenefit is accessed
+INFO  03:09:58 GetEligibleClaimAmount is accesed
+INFO  03:09:58 GetEligibleBenefit is accessed
+INFO  03:09:58 GetChainOfProviders Accesed
+INFO  03:10:54 GetEligibleClaimAmount is accesed
+INFO  03:10:54 GetEligibleBenefit is accessed
+INFO  03:10:54 GetChainOfProviders Accesed
+INFO  05:05:01 Application started. Press Ctrl+C to shut down.
+INFO  05:05:01 Application started. Press Ctrl+C to shut down.
+INFO  05:05:01 Hosting environment: Development
+INFO  05:05:01 Hosting environment: Development
+INFO  05:05:01 Content root path: C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\PolicyMicroservice
+INFO  05:05:01 Content root path: C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\PolicyMicroservice
+INFO  05:05:50 GetEligibleClaimAmount is accesed
+INFO  05:05:50 GetEligibleBenefit is accessed
+INFO  05:05:50 GetChainOfProviders Accesed
+INFO  05:09:03 GetEligibleClaimAmount is accesed
+INFO  05:09:03 GetEligibleBenefit is accessed
+INFO  05:09:03 GetChainOfProviders Accesed
+INFO  05:12:02 GetEligibleClaimAmount is accesed
+INFO  05:12:02 GetEligibleBenefit is accessed
+INFO  05:12:02 GetChainOfProviders Accesed
+INFO  05:15:40 GetEligibleClaimAmount is accesed
+INFO  05:15:40 GetEligibleBenefit is accessed
+INFO  05:15:40 GetChainOfProviders Accesed
+INFO  05:27:24 GetEligibleClaimAmount is accesed
+INFO  05:27:24 GetEligibleBenefit is accessed
+INFO  05:27:24 GetChainOfProviders Accesed
+INFO  05:30:51 Application started. Press Ctrl+C to shut down.
+INFO  05:30:51 Application started. Press Ctrl+C to shut down.
+INFO  05:30:51 Hosting environment: Development
+INFO  05:30:51 Hosting environment: Development
+INFO  05:30:51 Content root path: C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\PolicyMicroservice
+INFO  05:30:51 Content root path: C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\PolicyMicroservice
+INFO  05:31:33 GetEligibleClaimAmount is accesed
+INFO  05:31:33 GetEligibleBenefit is accessed
+INFO  05:31:33 GetChainOfProviders Accesed
+INFO  05:31:56 GetEligibleClaimAmount is accesed
+INFO  05:31:56 GetEligibleBenefit is accessed
+INFO  05:31:56 GetChainOfProviders Accesed
+INFO  05:31:57 GetEligibleClaimAmount is accesed
+INFO  05:31:57 GetEligibleBenefit is accessed
+INFO  05:31:57 GetChainOfProviders Accesed
+INFO  05:32:04 GetEligibleClaimAmount is accesed
+INFO  05:32:04 GetEligibleBenefit is accessed
+INFO  05:32:04 GetChainOfProviders Accesed
+INFO  08:59:39 Application started. Press Ctrl+C to shut down.
+INFO  08:59:39 Application started. Press Ctrl+C to shut down.
+INFO  08:59:40 Hosting environment: Development
+INFO  08:59:40 Hosting environment: Development
+INFO  08:59:40 Content root path: C:\Users\ASUS\Desktop\ClaimsManagementSystem\PolicyMicroservice
+INFO  08:59:40 Content root path: C:\Users\ASUS\Desktop\ClaimsManagementSystem\PolicyMicroservice
+INFO  08:59:40 GetChainOfProviders Accesed
+INFO  08:59:55 GetEligibleBenefit is accessed
+INFO  09:00:08 GetEligibleClaimAmount is accesed
+INFO  09:00:16 GetEligibleClaimAmount is accesed
+INFO  09:00:24 GetEligibleClaimAmount is accesed
+INFO  09:00:30 GetEligibleClaimAmount is accesed
+INFO  09:00:40 GetEligibleClaimAmount is accesed
+INFO  09:00:47 GetEligibleClaimAmount is accesed
+INFO  09:02:19 Application started. Press Ctrl+C to shut down.
+INFO  09:02:19 Application started. Press Ctrl+C to shut down.
+INFO  09:02:19 Hosting environment: Development
+INFO  09:02:19 Hosting environment: Development
+INFO  09:02:19 Content root path: C:\Users\ASUS\Desktop\ClaimsManagementSystem\PolicyMicroservice
+INFO  09:02:19 Content root path: C:\Users\ASUS\Desktop\ClaimsManagementSystem\PolicyMicroservice
+INFO  09:02:39 GetEligibleClaimAmount is accesed
+INFO  09:02:48 GetEligibleClaimAmount is accesed
+INFO  09:14:37 Application started. Press Ctrl+C to shut down.
+INFO  09:14:38 Application started. Press Ctrl+C to shut down.
+INFO  09:14:38 Hosting environment: Development
+INFO  09:14:38 Hosting environment: Development
+INFO  09:14:38 Content root path: C:\Users\ASUS\Desktop\ClaimsManagementSystem\PolicyMicroservice
+INFO  09:14:38 Content root path: C:\Users\ASUS\Desktop\ClaimsManagementSystem\PolicyMicroservice
+INFO  09:15:17 GetChainOfProviders Accesed
+INFO  09:15:21 GetChainOfProviders Accesed
+INFO  09:24:13 GetChainOfProviders Accesed
+INFO  09:25:55 GetEligibleBenefit is accessed
+INFO  09:26:08 GetEligibleBenefit is accessed
+INFO  09:26:12 GetEligibleBenefit is accessed
+INFO  11:39:39 Application started. Press Ctrl+C to shut down.
+INFO  11:39:39 Application started. Press Ctrl+C to shut down.
+INFO  11:39:39 Hosting environment: Development
+INFO  11:39:39 Hosting environment: Development
+INFO  11:39:39 Content root path: C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\PolicyMicroservice
+INFO  11:39:39 Content root path: C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\PolicyMicroservice
+INFO  11:40:12 GetEligibleClaimAmount is accesed
+INFO  11:40:13 GetEligibleBenefit is accessed
+INFO  11:40:13 GetChainOfProviders Accesed
+INFO  11:54:24 Application started. Press Ctrl+C to shut down.
+INFO  11:54:24 Application started. Press Ctrl+C to shut down.
+INFO  11:54:24 Hosting environment: Development
+INFO  11:54:24 Hosting environment: Development
+INFO  11:54:24 Content root path: C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\PolicyMicroservice
+INFO  11:54:24 Content root path: C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\PolicyMicroservice
+INFO  11:56:53 GetEligibleClaimAmount is accesed
+INFO  11:56:53 GetEligibleBenefit is accessed
+INFO  11:56:54 GetChainOfProviders Accesed
+INFO  12:01:53 GetEligibleBenefit is accessed
+INFO  12:08:09 GetEligibleBenefit is accessed
+INFO  12:10:03 GetEligibleBenefit is accessed
+INFO  12:18:19 Application started. Press Ctrl+C to shut down.
+INFO  12:18:19 Application started. Press Ctrl+C to shut down.
+INFO  12:18:19 Hosting environment: Development
+INFO  12:18:19 Hosting environment: Development
+INFO  12:18:19 Content root path: C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\PolicyMicroservice
+INFO  12:18:19 Content root path: C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\PolicyMicroservice
+INFO  12:24:57 GetEligibleClaimAmount is accesed
+INFO  12:24:57 GetEligibleBenefit is accessed
+INFO  12:24:57 GetChainOfProviders Accesed
+INFO  12:39:58 Application started. Press Ctrl+C to shut down.
+INFO  12:39:58 Application started. Press Ctrl+C to shut down.
+INFO  12:39:58 Hosting environment: Development
+INFO  12:39:58 Hosting environment: Development
+INFO  12:39:58 Content root path: C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\PolicyMicroservice
+INFO  12:39:58 Content root path: C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\PolicyMicroservice
+INFO  12:40:08 GetEligibleClaimAmount is accesed
+INFO  12:40:09 GetEligibleBenefit is accessed
+INFO  12:40:09 GetChainOfProviders Accesed
+INFO  12:57:08 GetEligibleClaimAmount is accesed
+INFO  12:57:08 GetEligibleBenefit is accessed
+INFO  12:57:08 GetChainOfProviders Accesed
+INFO  12:57:18 GetEligibleClaimAmount is accesed
+INFO  12:57:18 GetEligibleBenefit is accessed
+INFO  12:57:18 GetChainOfProviders Accesed
+INFO  08:00:36 Application started. Press Ctrl+C to shut down.
+INFO  08:00:36 Application started. Press Ctrl+C to shut down.
+INFO  08:00:36 Hosting environment: Development
+INFO  08:00:36 Hosting environment: Development
+INFO  08:00:36 Content root path: C:\Users\ASUS\Desktop\ClaimsManagement\PolicyMicroservice
+INFO  08:00:36 Content root path: C:\Users\ASUS\Desktop\ClaimsManagement\PolicyMicroservice
+INFO  08:00:37 GetChainOfProviders Accesed
+INFO  08:00:46 GetEligibleBenefit is accessed
+INFO  08:00:53 GetEligibleClaimAmount is accesed
+INFO  04:23:18 Application started. Press Ctrl+C to shut down.
+INFO  04:23:18 Application started. Press Ctrl+C to shut down.
+INFO  04:23:18 Hosting environment: Development
+INFO  04:23:18 Hosting environment: Development
+INFO  04:23:18 Content root path: C:\Users\sud44\OneDrive\Desktop\New Pull\PolicyMicroservice
+INFO  04:23:18 Content root path: C:\Users\sud44\OneDrive\Desktop\New Pull\PolicyMicroservice
+INFO  04:37:54 GetEligibleClaimAmount is accesed
+INFO  04:37:54 GetEligibleBenefit is accessed
+INFO  04:37:54 GetChainOfProviders Accesed
+INFO  04:41:12 GetEligibleClaimAmount is accesed
+INFO  04:41:12 GetEligibleBenefit is accessed
+INFO  04:41:12 GetChainOfProviders Accesed
+INFO  04:42:28 GetEligibleClaimAmount is accesed
+ERROR 04:43:34 Exception in GetEligibleClaimAmountObject reference not set to an instance of an object.
+INFO  04:49:11 Application started. Press Ctrl+C to shut down.
+INFO  04:49:11 Application started. Press Ctrl+C to shut down.
+INFO  04:49:11 Hosting environment: Development
+INFO  04:49:11 Hosting environment: Development
+INFO  04:49:11 Content root path: C:\Users\sud44\OneDrive\Desktop\New Pull\PolicyMicroservice
+INFO  04:49:11 Content root path: C:\Users\sud44\OneDrive\Desktop\New Pull\PolicyMicroservice
+INFO  04:49:24 GetEligibleClaimAmount is accesed
+ERROR 04:50:14 Exception in GetEligibleClaimAmountObject reference not set to an instance of an object.
+INFO  05:08:44 Application started. Press Ctrl+C to shut down.
+INFO  05:08:44 Application started. Press Ctrl+C to shut down.
+INFO  05:08:44 Hosting environment: Development
+INFO  05:08:44 Hosting environment: Development
+INFO  05:08:44 Content root path: C:\Users\sud44\OneDrive\Desktop\New Pull\PolicyMicroservice
+INFO  05:08:44 Content root path: C:\Users\sud44\OneDrive\Desktop\New Pull\PolicyMicroservice
+INFO  05:08:57 GetEligibleClaimAmount is accesed
+ERROR 05:08:58 Exception in GetEligibleClaimAmountProcessing of the HTTP request resulted in an exception. Please see the HTTP response returned by the 'Response' property of this exception for details.
+INFO  05:11:16 GetEligibleClaimAmount is accesed
+ERROR 05:11:16 Exception in GetEligibleClaimAmountProcessing of the HTTP request resulted in an exception. Please see the HTTP response returned by the 'Response' property of this exception for details.
+INFO  05:23:14 GetEligibleClaimAmount is accesed
+INFO  05:23:14 GetEligibleBenefit is accessed
+INFO  05:23:15 GetChainOfProviders Accesed
+INFO  06:19:55 Application started. Press Ctrl+C to shut down.
+INFO  06:19:55 Application started. Press Ctrl+C to shut down.
+INFO  06:19:55 Hosting environment: Development
+INFO  06:19:55 Hosting environment: Development
+INFO  06:19:56 Content root path: C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\PolicyMicroservice
+INFO  06:19:56 Content root path: C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\PolicyMicroservice
+INFO  06:22:58 GetEligibleClaimAmount is accesed
+ERROR 06:22:59 Exception in GetEligibleClaimAmountProcessing of the HTTP request resulted in an exception. Please see the HTTP response returned by the 'Response' property of this exception for details.
+INFO  06:22:59 GetEligibleBenefit is accessed
+ERROR 06:25:06 Exception in GetEligibleBenefitObject reference not set to an instance of an object.
+INFO  06:33:53 Application started. Press Ctrl+C to shut down.
+INFO  06:33:53 Application started. Press Ctrl+C to shut down.
+INFO  06:33:53 Hosting environment: Development
+INFO  06:33:53 Hosting environment: Development
+INFO  06:33:53 Content root path: C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\PolicyMicroservice
+INFO  06:33:53 Content root path: C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\PolicyMicroservice
+INFO  06:36:09 GetEligibleClaimAmount is accesed
+ERROR 06:36:10 Exception in GetEligibleClaimAmountProcessing of the HTTP request resulted in an exception. Please see the HTTP response returned by the 'Response' property of this exception for details.
+INFO  06:36:10 GetEligibleBenefit is accessed
+INFO  06:45:45 Application started. Press Ctrl+C to shut down.
+INFO  06:45:45 Application started. Press Ctrl+C to shut down.
+INFO  06:45:45 Hosting environment: Development
+INFO  06:45:45 Hosting environment: Development
+INFO  06:45:45 Content root path: C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\PolicyMicroservice
+INFO  06:45:45 Content root path: C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\PolicyMicroservice
+INFO  06:52:10 GetEligibleClaimAmount is accesed
+INFO  06:52:11 GetEligibleBenefit is accessed
+INFO  06:52:11 GetChainOfProviders Accesed
+INFO  06:57:46 Application started. Press Ctrl+C to shut down.
+INFO  06:57:46 Application started. Press Ctrl+C to shut down.
+INFO  06:57:46 Hosting environment: Development
+INFO  06:57:46 Hosting environment: Development
+INFO  06:57:46 Content root path: C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\PolicyMicroservice
+INFO  06:57:46 Content root path: C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\PolicyMicroservice
+INFO  06:58:59 GetEligibleClaimAmount is accesed
+INFO  06:59:00 GetEligibleBenefit is accessed
+INFO  07:11:46 Application started. Press Ctrl+C to shut down.
+INFO  07:11:46 Application started. Press Ctrl+C to shut down.
+INFO  07:11:46 Hosting environment: Development
+INFO  07:11:46 Hosting environment: Development
+INFO  07:11:46 Content root path: C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\PolicyMicroservice
+INFO  07:11:46 Content root path: C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\PolicyMicroservice
+INFO  07:12:53 GetEligibleClaimAmount is accesed
+INFO  07:12:53 GetEligibleBenefit is accessed
+INFO  08:16:29 Application started. Press Ctrl+C to shut down.
+INFO  08:16:29 Application started. Press Ctrl+C to shut down.
+INFO  08:16:29 Hosting environment: Development
+INFO  08:16:29 Hosting environment: Development
+INFO  08:16:29 Content root path: C:\Users\ASUS\Desktop\ClaimManagementSyatem\PolicyMicroservice
+INFO  08:16:29 Content root path: C:\Users\ASUS\Desktop\ClaimManagementSyatem\PolicyMicroservice
+INFO  08:16:30 GetChainOfProviders Accesed
+INFO  08:16:35 GetChainOfProviders Accesed
+INFO  08:21:26 Application started. Press Ctrl+C to shut down.
+INFO  08:21:26 Application started. Press Ctrl+C to shut down.
+INFO  08:21:27 Hosting environment: Development
+INFO  08:21:28 Hosting environment: Development
+INFO  08:21:28 Content root path: C:\Users\ASUS\Desktop\ClaimManagementSyatem\PolicyMicroservice
+INFO  08:21:28 Content root path: C:\Users\ASUS\Desktop\ClaimManagementSyatem\PolicyMicroservice
+INFO  08:30:50 GetEligibleClaimAmount is accesed
+INFO  08:30:50 GetEligibleBenefit is accessed
+INFO  08:30:51 GetChainOfProviders Accesed
+INFO  08:31:52 GetEligibleClaimAmount is accesed
+INFO  08:31:53 GetEligibleBenefit is accessed
+INFO  08:32:50 GetEligibleClaimAmount is accesed
+INFO  08:32:50 GetEligibleBenefit is accessed
+INFO  08:33:03 GetEligibleClaimAmount is accesed
+INFO  08:33:03 GetEligibleBenefit is accessed
+INFO  08:33:54 GetEligibleClaimAmount is accesed
+INFO  08:33:54 GetEligibleBenefit is accessed
+INFO  10:35:25 Application started. Press Ctrl+C to shut down.
+INFO  10:35:25 Application started. Press Ctrl+C to shut down.
+INFO  10:35:25 Hosting environment: Development
+INFO  10:35:25 Hosting environment: Development
+INFO  10:35:25 Content root path: C:\Users\ASUS\Desktop\ClaimManagementSyatem\PolicyMicroservice
+INFO  10:35:25 Content root path: C:\Users\ASUS\Desktop\ClaimManagementSyatem\PolicyMicroservice
+INFO  10:35:33 GetChainOfProviders Accesed
+INFO  10:36:41 GetChainOfProviders Accesed
+INFO  10:45:02 Application started. Press Ctrl+C to shut down.
+INFO  10:45:02 Application started. Press Ctrl+C to shut down.
+INFO  10:45:02 Hosting environment: Development
+INFO  10:45:02 Hosting environment: Development
+INFO  10:45:02 Content root path: C:\Users\ASUS\Desktop\ClaimManagementSyatem\PolicyMicroservice
+INFO  10:45:02 Content root path: C:\Users\ASUS\Desktop\ClaimManagementSyatem\PolicyMicroservice
+INFO  10:45:07 GetChainOfProviders Accesed
+INFO  10:45:13 GetChainOfProviders Accesed
+INFO  10:46:03 Application started. Press Ctrl+C to shut down.
+INFO  10:46:03 Application started. Press Ctrl+C to shut down.
+INFO  10:46:03 Hosting environment: Development
+INFO  10:46:03 Hosting environment: Development
+INFO  10:46:03 Content root path: C:\Users\ASUS\Desktop\ClaimManagementSyatem\PolicyMicroservice
+INFO  10:46:03 Content root path: C:\Users\ASUS\Desktop\ClaimManagementSyatem\PolicyMicroservice
+INFO  10:46:08 GetChainOfProviders Accesed
+INFO  10:46:14 Model is not valid in GetChainOfProviders
+INFO  10:46:24 GetEligibleBenefit is accessed
+INFO  10:46:34 GetEligibleBenefit is accessed
+INFO  10:48:44 Application started. Press Ctrl+C to shut down.
+INFO  10:48:44 Application started. Press Ctrl+C to shut down.
+INFO  10:48:44 Hosting environment: Development
+INFO  10:48:44 Hosting environment: Development
+INFO  10:48:44 Content root path: C:\Users\ASUS\Desktop\ClaimManagementSyatem\PolicyMicroservice
+INFO  10:48:44 Content root path: C:\Users\ASUS\Desktop\ClaimManagementSyatem\PolicyMicroservice
+INFO  10:49:05 GetChainOfProviders Accesed
+INFO  10:49:35 Model is not valid in GetChainOfProviders
+INFO  10:51:18 Application started. Press Ctrl+C to shut down.
+INFO  10:51:18 Application started. Press Ctrl+C to shut down.
+INFO  10:51:18 Hosting environment: Development
+INFO  10:51:18 Hosting environment: Development
+INFO  10:51:18 Content root path: C:\Users\ASUS\Desktop\ClaimManagementSyatem\PolicyMicroservice
+INFO  10:51:18 Content root path: C:\Users\ASUS\Desktop\ClaimManagementSyatem\PolicyMicroservice
+INFO  10:55:36 GetChainOfProviders Accesed
+INFO  10:55:41 Model is not valid in GetChainOfProviders
+INFO  10:56:39 Application started. Press Ctrl+C to shut down.
+INFO  10:56:39 Application started. Press Ctrl+C to shut down.
+INFO  10:56:39 Hosting environment: Development
+INFO  10:56:39 Hosting environment: Development
+INFO  10:56:39 Content root path: C:\Users\ASUS\Desktop\ClaimManagementSyatem\PolicyMicroservice
+INFO  10:56:39 Content root path: C:\Users\ASUS\Desktop\ClaimManagementSyatem\PolicyMicroservice
+INFO  10:56:47 Model is not valid in GetChainOfProviders
+INFO  11:23:37 Application started. Press Ctrl+C to shut down.
+INFO  11:23:37 Application started. Press Ctrl+C to shut down.
+INFO  11:23:37 Hosting environment: Development
+INFO  11:23:37 Hosting environment: Development
+INFO  11:23:37 Content root path: C:\Users\ASUS\Desktop\ClaimManagementSyatem\PolicyMicroservice
+INFO  11:23:37 Content root path: C:\Users\ASUS\Desktop\ClaimManagementSyatem\PolicyMicroservice
+INFO  11:23:51 Model is not valid in GetChainOfProviders
+INFO  01:55:38 Application started. Press Ctrl+C to shut down.
+INFO  01:55:38 Application started. Press Ctrl+C to shut down.
+INFO  01:55:38 Hosting environment: Development
+INFO  01:55:38 Hosting environment: Development
+INFO  01:55:38 Content root path: C:\Users\ASUS\Desktop\ClaimManagementSyatem\PolicyMicroservice
+INFO  01:55:38 Content root path: C:\Users\ASUS\Desktop\ClaimManagementSyatem\PolicyMicroservice
+INFO  01:55:40 GetChainOfProviders Accesed
+INFO  03:49:23 Application started. Press Ctrl+C to shut down.
+INFO  03:49:23 Application started. Press Ctrl+C to shut down.
+INFO  03:49:24 Hosting environment: Development
+INFO  03:49:24 Hosting environment: Development
+INFO  03:49:24 Content root path: C:\Users\ASUS\Desktop\ClaimManagementSyatem\PolicyMicroservice
+INFO  03:49:24 Content root path: C:\Users\ASUS\Desktop\ClaimManagementSyatem\PolicyMicroservice
+INFO  05:35:05 Application started. Press Ctrl+C to shut down.
+INFO  05:35:05 Application started. Press Ctrl+C to shut down.
+INFO  05:35:05 Hosting environment: Development
+INFO  05:35:05 Hosting environment: Development
+INFO  05:35:05 Content root path: C:\Users\ASUS\Desktop\ClaimManagementSyatem\PolicyMicroservice
+INFO  05:35:05 Content root path: C:\Users\ASUS\Desktop\ClaimManagementSyatem\PolicyMicroservice
+INFO  07:11:13 Application started. Press Ctrl+C to shut down.
+INFO  07:11:13 Application started. Press Ctrl+C to shut down.
+INFO  07:11:13 Hosting environment: Development
+INFO  07:11:13 Hosting environment: Development
+INFO  07:11:13 Content root path: C:\Users\ASUS\Desktop\ClaimManagementSyatem\PolicyMicroservice
+INFO  07:11:13 Content root path: C:\Users\ASUS\Desktop\ClaimManagementSyatem\PolicyMicroservice
+INFO  07:11:15 GetEligibleBenefit is accessed for MemberId :1 PolicyId :1
+INFO  07:11:20 GetEligibleBenefit is accessed for MemberId :9 PolicyId :1
+INFO  07:12:25 Application started. Press Ctrl+C to shut down.
+INFO  07:12:25 Application started. Press Ctrl+C to shut down.
+INFO  07:12:25 Hosting environment: Development
+INFO  07:12:25 Hosting environment: Development
+INFO  07:12:25 Content root path: C:\Users\ASUS\Desktop\ClaimManagementSyatem\PolicyMicroservice
+INFO  07:12:25 Content root path: C:\Users\ASUS\Desktop\ClaimManagementSyatem\PolicyMicroservice
+INFO  07:12:34 GetEligibleBenefit is accessed for MemberId :9 PolicyId :1
+INFO  07:19:08 Application started. Press Ctrl+C to shut down.
+INFO  07:19:08 Application started. Press Ctrl+C to shut down.
+INFO  07:19:08 Hosting environment: Development
+INFO  07:19:08 Hosting environment: Development
+INFO  07:19:08 Content root path: C:\Users\ASUS\Desktop\ClaimManagementSyatem\PolicyMicroservice
+INFO  07:19:08 Content root path: C:\Users\ASUS\Desktop\ClaimManagementSyatem\PolicyMicroservice
+INFO  07:19:10 GetEligibleBenefit is accessed for MemberId :1 PolicyId :1
+INFO  07:19:28 Model is not valid in GetEligibleBenefit for the entered MemberId :-1 PolicyId :-1
+INFO  08:21:15 Application started. Press Ctrl+C to shut down.
+INFO  08:21:15 Application started. Press Ctrl+C to shut down.
+INFO  08:21:15 Hosting environment: Development
+INFO  08:21:15 Hosting environment: Development
+INFO  08:21:15 Content root path: C:\Users\ASUS\Desktop\ClaimManagementSyatem\PolicyMicroservice
+INFO  08:21:15 Content root path: C:\Users\ASUS\Desktop\ClaimManagementSyatem\PolicyMicroservice
+INFO  08:23:14 Model is not valid in GetChainOfProviders while checking for PolicyId: -1
+INFO  08:23:14 GetChainOfProviders Accesed for policyId :1
+INFO  08:27:06 Application started. Press Ctrl+C to shut down.
+INFO  08:27:06 Application started. Press Ctrl+C to shut down.
+INFO  08:27:06 Hosting environment: Development
+INFO  08:27:06 Hosting environment: Development
+INFO  08:27:06 Content root path: C:\Users\ASUS\Desktop\ClaimManagementSyatem\PolicyMicroservice
+INFO  08:27:06 Content root path: C:\Users\ASUS\Desktop\ClaimManagementSyatem\PolicyMicroservice
+INFO  08:27:13 GetEligibleBenefit is accessed for MemberId :1 PolicyId :1
+INFO  08:27:42 GetChainOfProviders Accesed for policyId :1
+INFO  08:27:54 Model is not valid in GetChainOfProviders while checking for PolicyId: -6
+INFO  08:50:25 Application started. Press Ctrl+C to shut down.
+INFO  08:50:25 Application started. Press Ctrl+C to shut down.
+INFO  08:50:25 Hosting environment: Development
+INFO  08:50:25 Hosting environment: Development
+INFO  08:50:25 Content root path: C:\Users\ASUS\Desktop\ClaimManagementSyatem\PolicyMicroservice
+INFO  08:50:25 Content root path: C:\Users\ASUS\Desktop\ClaimManagementSyatem\PolicyMicroservice
+INFO  08:50:27 GetEligibleClaimAmount is accesed for PolicyId :1 MemberId :1 BenefitId :1
+INFO  08:50:33 ModelState is not valid for GetEligibleAmount for the entered PolicyId :1 MemberId :1 BenefitId :-1
+INFO  09:04:01 Application started. Press Ctrl+C to shut down.
+INFO  09:04:01 Application started. Press Ctrl+C to shut down.
+INFO  09:04:01 Hosting environment: Development
+INFO  09:04:01 Hosting environment: Development
+INFO  09:04:01 Content root path: C:\Users\ASUS\Desktop\ClaimManagementSyatem\PolicyMicroservice
+INFO  09:04:01 Content root path: C:\Users\ASUS\Desktop\ClaimManagementSyatem\PolicyMicroservice
+INFO  09:04:13 Data Fetched for PolicyId :1
+INFO  09:04:15 GetChainOfProviders Accesed for policyId :1
+INFO  09:04:29 Data is not valid in GetChainOfProviders while checking for PolicyId: -1
+INFO  09:04:45 GetEligibleBenefit is accessed for MemberId :1 PolicyId :1
+INFO  09:04:45 Data fetched in GetEligibleBenefit for the entered MemberId :1 PolicyId :1
+INFO  09:04:52 Data is not valid in GetEligibleBenefit for the entered MemberId :-1 PolicyId :1
+INFO  09:05:01 GetEligibleClaimAmount is accesed for PolicyId :1 MemberId :1 BenefitId :1
+INFO  09:05:01 Data fetched for GetEligibleAmount for the entered PolicyId :1 MemberId :1 BenefitId :1
+INFO  09:05:13 Data is not valid for GetEligibleClaimAmount for the entered PolicyId :1 MemberId :1 BenefitId :-1
+INFO  09:05:24 GetEligibleClaimAmount is accesed for PolicyId :1 MemberId :1 BenefitId :100
+INFO  09:05:24 Data not found for GetEligibleClaimAmount for the entered PolicyId :1 MemberId :1 BenefitId :100
